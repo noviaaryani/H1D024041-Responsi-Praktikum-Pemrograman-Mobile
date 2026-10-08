@@ -4,12 +4,10 @@ PiePlay adalah aplikasi katalog game Android modern yang menampilkan daftar game
 
 ## 📸 Screenshots
 
-| Home Screen | Detail Screen |
-| :---: | :---: |
-| <img src="[URL_SCREENSHOT_HOME]" width="250"/> | <img src="[URL_SCREENSHOT_DETAIL]" width="250"/> |
-| *Daftar game yang sedang populer* | *Detail informasi dari game yang dipilih* |
-
-*(Ganti `[URL_SCREENSHOT_HOME]` dan `[URL_SCREENSHOT_DETAIL]` dengan link gambar screenshot aslimu yang sudah di-upload ke GitHub).*
+| Home Screen | Pencarian (Search) | Detail Screen |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/search.png" width="250"/> | <img src="screenshots/detail.png" width="250"/> |
+| *Daftar game yang sedang populer* | *Fitur pencarian game* | *Detail informasi game* |
 
 ## 🛠️ Tech Stack & Penjelasan Teknis
 
