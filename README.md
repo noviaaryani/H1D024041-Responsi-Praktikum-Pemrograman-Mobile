@@ -1,5 +1,13 @@
+# Responsi Praktikum Pemrograman Mobile
 
+| Biodata Mahasiswa | Keterangan |
+| :--- | :--- |
+| **Nama** | Novia Rizky Aryani |
+| **NIM** | H1D024041 |
+| **Shift KRS** | C |
+| **Shift Baru** | F |
 
+---
 
 # PiePlay
 
