@@ -1,17 +1,20 @@
-# PiePlay 🎮
+
+
+
+# PiePlay
 
 PiePlay adalah aplikasi katalog game Android modern yang menampilkan daftar game beserta detailnya, menggunakan data langsung dari **RAWG Video Games Database API**.
 
-## 📸 Screenshots
+## Screenshots
 
-| Home Screen | Detail Screen |
-| :---: | :---: |
-| <img src="[URL_SCREENSHOT_HOME]" width="250"/> | <img src="[URL_SCREENSHOT_DETAIL]" width="250"/> |
-| *Daftar game yang sedang populer* | *Detail informasi dari game yang dipilih* |
+| Home Screen | Pencarian (Search) | Detail Screen |
+| :---: | :---: | :---: |
+| <img src="[screenshots/home.png]" width="250"/> | <img src="[screenshots/search.png]" width="250"/> | <img src="[screenshots/detail.png]" width="250"/> |
+| *Daftar game yang sedang populer* | *Fitur pencarian game* | *Detail informasi game* |
 
 *(Ganti `[URL_SCREENSHOT_HOME]` dan `[URL_SCREENSHOT_DETAIL]` dengan link gambar screenshot aslimu yang sudah di-upload ke GitHub).*
 
-## 🛠️ Tech Stack & Penjelasan Teknis
+## Tech Stack & Penjelasan Teknis
 
 Aplikasi ini dibangun menggunakan arsitektur modern Android development:
 
@@ -31,7 +34,7 @@ Aplikasi ini dibangun menggunakan arsitektur modern Android development:
 *   **Izin Akses (Permissions)**:
     *   `android.permission.INTERNET` diaktifkan di dalam `AndroidManifest.xml` agar aplikasi diizinkan mengambil data RAWG API menggunakan internet.
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1. Clone repositori ini.
 2. Buka Android Studio dan pilih **File > Open**, lalu arahkan ke folder project ini.
@@ -39,6 +42,3 @@ Aplikasi ini dibangun menggunakan arsitektur modern Android development:
 4. Buat akun di [RAWG.io](https://rawg.io/apidocs) untuk mendapatkan API Key.
 5. Masukkan API Key tersebut ke dalam file kode yang membutuhkan atau di `local.properties` (sesuaikan dengan kodemu).
 6. Tekan tombol **Run** (Shift + F10) untuk menjalankan aplikasi di Emulator atau perangkat fisik Android.
-
-## 🧑‍💻 Author
-Dibuat oleh [Nama Kamu]
