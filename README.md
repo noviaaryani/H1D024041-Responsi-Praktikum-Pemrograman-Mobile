@@ -1,8 +1,19 @@
-# PiePlay 🎮
+# Responsi Praktikum Pemrograman Mobile
+
+| Biodata Mahasiswa | Keterangan |
+| :--- | :--- |
+| **Nama** | Novia Rizky Aryani |
+| **NIM** | H1D024041 |
+| **Shift KRS** | C |
+| **Shift Baru** | F |
+
+---
+
+# PiePlay
 
 PiePlay adalah aplikasi katalog game Android modern yang menampilkan daftar game beserta detailnya, menggunakan data langsung dari **RAWG Video Games Database API**.
 
-## 📸 Screenshots
+## Screenshots
 
 | Home Screen | Pencarian (Search) | Detail Screen |
 | :---: | :---: | :---: |
@@ -29,7 +40,7 @@ Aplikasi ini dibangun menggunakan arsitektur modern Android development:
 *   **Izin Akses (Permissions)**:
     *   `android.permission.INTERNET` diaktifkan di dalam `AndroidManifest.xml` agar aplikasi diizinkan mengambil data RAWG API menggunakan internet.
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1. Clone repositori ini.
 2. Buka Android Studio dan pilih **File > Open**, lalu arahkan ke folder project ini.
@@ -37,6 +48,3 @@ Aplikasi ini dibangun menggunakan arsitektur modern Android development:
 4. Buat akun di [RAWG.io](https://rawg.io/apidocs) untuk mendapatkan API Key.
 5. Masukkan API Key tersebut ke dalam file kode yang membutuhkan atau di `local.properties` (sesuaikan dengan kodemu).
 6. Tekan tombol **Run** (Shift + F10) untuk menjalankan aplikasi di Emulator atau perangkat fisik Android.
-
-## 🧑‍💻 Author
-Dibuat oleh [Nama Kamu]
